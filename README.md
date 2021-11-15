@@ -6,5 +6,7 @@ c++综合案例_俄罗斯方块
 还有一堆bug【划掉】
 直接下载可执行文件就可以玩了✓
 1.0.4 降低方块出现重复率，同一个方块不会连续出现两次了（
+
 ![image](https://user-images.githubusercontent.com/43498495/141783708-625cb653-6806-4038-8677-675471375faa.png)
+
 ![image](https://user-images.githubusercontent.com/43498495/141783738-88ed0215-0b35-4ea6-8535-59c27fd39944.png)
